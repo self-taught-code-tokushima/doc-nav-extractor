@@ -1,0 +1,58 @@
+{
+  "text": "Unity Building Blocks",
+  "url": "https://docs.unity3d.com/Manual/building-blocks.html",
+  "children": [
+    {
+      "text": "Introduction to Unity Building Blocks",
+      "url": "https://docs.unity3d.com/Manual/building-blocks-introduction.html",
+      "children": []
+    },
+    {
+      "text": "LiveOps Building Blocks",
+      "url": "https://docs.unity3d.com/Manual/building-blocks-liveops.html",
+      "children": [
+        {
+          "text": "LiveOps Building Blocks prerequisites",
+          "url": "https://docs.unity3d.com/Manual/building-blocks-liveops-prerequisites.html",
+          "children": []
+        },
+        {
+          "text": "Player Accounts Building Block",
+          "url": "https://docs.unity3d.com/Manual/building-blocks-liveops-player-accounts.html",
+          "children": []
+        },
+        {
+          "text": "Achievements Building Block",
+          "url": "https://docs.unity3d.com/Manual/building-blocks-liveops-achievements.html",
+          "children": []
+        },
+        {
+          "text": "Leaderboards Building Block",
+          "url": "https://docs.unity3d.com/Manual/building-blocks-liveops-leaderboard.html",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Multiplayer Services Building Blocks",
+      "url": "https://docs.unity3d.com/Manual/building-blocks-multiplayer.html",
+      "children": [
+        {
+          "text": "Multiplayer Services Building Blocks prerequisites",
+          "url": "https://docs.unity3d.com/Manual/building-blocks-multiplayer-prerequisites.html",
+          "children": []
+        },
+        {
+          "text": "Multiplayer Sessions Building Block",
+          "url": "https://docs.unity3d.com/Manual/building-blocks-multiplayer-sessions.html",
+          "children": []
+        },
+        {
+          "text": "Matchmaker Session Building Block",
+          "url": "https://docs.unity3d.com/Manual/building-blocks-multiplayer-matchmaking.html",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
