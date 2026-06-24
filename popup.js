@@ -10,7 +10,8 @@ document.getElementById('extract-btn').addEventListener('click', async () => {
     const supportedSites = [
       'developers.meta.com/horizon',
       'dev.epicgames.com/documentation',
-      'docs.unity3d.com'
+      'docs.unity3d.com',
+      'learn.microsoft.com/ja-jp/minecraft'
     ];
     if (!supportedSites.some(site => tab.url.includes(site))) {
       status.textContent = '❌ 対応サイトのドキュメントページで実行してください';
